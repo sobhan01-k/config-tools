@@ -2,7 +2,7 @@
 The easy way to work with config files in python 3
 
 # Start
-  from config_files_tool import Config
+  from config_tools import Config
 
   config = Config('file_name','file_type')        ====> file_type like ini or cfg
 
